@@ -10,6 +10,7 @@ Exercice 3:
 -on créer un fichier style.css et on le lie avec index dans une balise link
 -sauvegarder
 -rajouter du style
+-sauvegarder
 -on fusionne le travail dans master
 -on supprime la branche css
 -on crée une branche js et se positionner
